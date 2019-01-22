@@ -6,7 +6,7 @@ include_once '../Entity/Requisito.php';
 include_once '../Entity/Usuario.php';
 include_once '../Entity/Postulante.php';
 include_once '../Entity/RequisitoPostulante.php';
-include_once '../model/catalogoModel.php';
+include_once '../model/CatalogoModel.php';
 include_once '../model/LoginModel.php';
 $loginModel = new loginModel();
 $res = false;

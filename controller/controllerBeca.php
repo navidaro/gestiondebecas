@@ -1,6 +1,6 @@
 <?php
 
-require_once '../model/becaModel.php';
+require_once '../model/BecaModel.php';
 require_once '../model/RequisitoModel.php';
 session_start();
 $becaModel = new becaModel();
