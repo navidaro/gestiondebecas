@@ -4,7 +4,7 @@ class Database {
 
 //Propiedades estaticas con la informacion de la conexion (DSN):
     private static $dbName = 'gestionbecas';
-    private static $dbHost = '172.30.239.179';
+    private static $dbHost = 'localhost';
     private static $dbUsername = 'postgres';
     private static $dbUserPassword = 'root';
 //Propiedad para control de la conexion:
