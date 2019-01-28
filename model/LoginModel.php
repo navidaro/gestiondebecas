@@ -20,7 +20,6 @@ class LoginModel {
             $Login = new Login($res['us_cedula'], $res['us_contrasenia']);
             array_push($listado, $Login);
         }
-        sleep(1);
         Database::disconnect();
         if (count($listado) == 1) {
             $log = true;
