@@ -24,9 +24,7 @@ if ($res) {
         <script src="../js/jquery-2.1.4.js"></script>
         <script src="../smoke.js-master/smoke.js"></script>
         <script src="../smoke.js-master/smoke.min.js"></script>
-        <script src="../smoke.js-master/bower.json"></script>
         <link   href="../smoke.js-master/smoke.css" rel="stylesheet">
-        <script src="../js/Validaciones.js"></script>
         <script language="JavaScript">
             function senial() {
                 smoke.signal("EL POSTULANTE HA SIDO GUARDADO", function (e) {

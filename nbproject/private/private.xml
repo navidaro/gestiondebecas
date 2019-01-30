@@ -3,12 +3,31 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/requisitoPostulante.php</file>
-            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/PostulanteModel.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/requisitoAdministrador.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/RequisitoModel.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/createBeca.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/controller/controllerBeca.php</file>
             <file>file:/C:/xampp/htdocs/gestionDeBecas/controller/controllerLogin.php</file>
-            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/LoginModel.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/controller/controllerAdministrador.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/crudBeca.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/CatalogoModel.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/editBeca.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/index.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/PostulanteModel.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/BecaModel.php</file>
             <file>file:/C:/xampp/htdocs/gestionDeBecas/controller/controllerFile.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/controller/controllerPostulante.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/requisitoPostulanteModel.php</file>
             <file>file:/C:/xampp/htdocs/gestionDeBecas/view/administrador.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/crudRequisito.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/requisitoPostulante.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/LoginModel.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/editRequisito.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/createRequisito.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/view/postulante.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/UsuarioModel.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/model/Database.php</file>
+            <file>file:/C:/xampp/htdocs/gestionDeBecas/controller/controllerRequisito.php</file>
         </group>
     </open-files>
 </project-private>
